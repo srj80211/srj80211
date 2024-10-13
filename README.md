@@ -1,4 +1,9 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/137953/i7-right-front-three-quarter-2.jpeg?isig=0&q=80)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://www.bmw.in/content/dam/bmw/common/topics/offers-and-services/bmw-special-sales-2020/protection-vehicle/bmw-css-7-series-protection-ms-new-standard.jpg/jcr:content/renditions/cq5dam.resized.img.585.low.time1694502783862.jpg)">
+ <img alt="Testing" src="[YOUR-DEFAULT-IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/800px-BMW_logo_%28gray%29.svg.png)">
+</picture>
+
 
 <!--
 **Suraj-70711/Suraj-70711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
