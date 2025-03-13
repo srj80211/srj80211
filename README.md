@@ -30,16 +30,16 @@
 <div align="center">
   <a href="https://www.instagram.com/suraj_80211/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a href="discordapp.com/users/suraj70711" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a href="mailto:surajpanigrahi.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/suraj-panigrahi-5009a1320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> &nbsp;
+  </a> &nbsp; &nbsp;
   <a href="https://x.com/Suraj_CodeGeek" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
