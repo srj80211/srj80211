@@ -9,7 +9,7 @@
 
 ###
 
-<div align="space-evenly">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" margin="2px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -27,7 +27,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-evenly; width: 100%; margin: 20px 0;">
+<div align="center">
   <a href="https://www.instagram.com/suraj_80211/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a> &nbsp;
